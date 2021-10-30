@@ -1,5 +1,3 @@
-# preparation
-
 ## Learning Objectives:
 - GIT (version control)
 - SOLID principles
