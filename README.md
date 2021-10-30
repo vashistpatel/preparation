@@ -2,5 +2,5 @@
 - GIT (version control)
 - SOLID principles
 - OOP
-- .net
+- .net https://youtube.com/playlist?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80
 - Data Structures
